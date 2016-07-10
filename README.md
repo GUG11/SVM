@@ -1,5 +1,7 @@
 # Implementation of SVM using Sequential Optimial Minimization
 
+This program implements SVM including linear, polynomial, rbf kernels.
+
 <hr />
 
 Reference:
